@@ -14,10 +14,15 @@ Data were collected from android phones which was remotely connected to accelero
 
 ## Data preprocessing
 Use window slides
+
 ![window](img/walk.png)
 
 Flatten the data
+
 ![flatten](img/transformation.png)
+
 ## CNN
 Gradient descent optimization methods: ADAM and SGD
+
+Neural netowork
 ![nn](img/nn.png)
