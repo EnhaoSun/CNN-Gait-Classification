@@ -25,4 +25,5 @@ Flatten the data
 Gradient descent optimization methods: ADAM and SGD
 
 Neural netowork
+
 ![nn](img/nn.png)
